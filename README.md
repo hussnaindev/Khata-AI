@@ -1,1 +1,1 @@
-# white-noise-project
+# White Noise Project
