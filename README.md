@@ -1,4 +1,4 @@
-# White Noise Project
+# KHATA-AI
 World's First AI-Based Khata App
 Releasing in 2025
 
